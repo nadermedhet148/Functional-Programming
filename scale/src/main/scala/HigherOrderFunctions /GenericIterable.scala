@@ -1,0 +1,5 @@
+package HigherOrderFunctions
+
+object GenericIterable {
+
+}
